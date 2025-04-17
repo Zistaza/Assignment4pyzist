@@ -86,9 +86,11 @@ Generates secure passwords based on selected options (length, characters).
 
 # ⚖️ Project 8: BMI Calculator (Streamlit)
 A simple web app to calculate Body Mass Index using Streamlit.
+🔗 [Live App on Streamlit Cloud](https://bmicalculatorzist23.streamlit.app/)
 
 # 🌐 Project 9: Build a Website with Streamlit
 A basic Python-powered website built in just 15 minutes with Streamlit.
+🔗 [Live App on Streamlit Cloud](https://portfoliozistpy23.streamlit.app/)
 
 🛠 Tech Stack
 Python 3.x
