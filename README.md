@@ -3,37 +3,42 @@ Welcome to my Python learning journey! This repository includes all my foundatio
 
 # 🚀 My Streamlit Projects
 
-# 📊 BMI Calculator App
+
+
+## 📊 BMI Calculator App
 Calculate your Body Mass Index (BMI) and get personalized health tips.
 
-🔗 Live App on Streamlit Cloud
+🔗 [Live App on Streamlit Cloud](https://bmicalculatorzist23.streamlit.app/)
 
-# 🌐 Portfolio Website with Streamlit
+---
+
+## 🌐 Portfolio Website with Streamlit
 An interactive portfolio showcasing Python projects, contact form, and more.
 
-🔗 Live App on Streamlit Cloud
+🔗 [Live App on Streamlit Cloud](https://portfoliozistpy23.streamlit.app/)
 
+---
 
 
 # 📂 Assignment Folder Overview
 ## 00_intro_python to 07_information_flow
 Basic Python concepts through structured weekly assignments:
 
-# 00_intro_python: Introduction to Python syntax & setup
+## 00_intro_python: Introduction to Python syntax & setup
 
-# 01_expressions: Working with expressions and operators
+## 01_expressions: Working with expressions and operators
 
-# 02_lists: Lists, indexing, and basic operations
+## 02_lists: Lists, indexing, and basic operations
 
-# 03_if_statements: Conditional statements and logic
+## 03_if_statements: Conditional statements and logic
 
-# 04_dictionaries: Dictionary creation, lookup, and usage
+## 04_dictionaries: Dictionary creation, lookup, and usage
 
-# 05_loops_control_flow: for/while loops and control flow
+## 05_loops_control_flow: for/while loops and control flow
 
-# 06_functions: Function definitions and usage
+## 06_functions: Function definitions and usage
 
-# 07_information_flow: Input/output and data handling
+## 07_information_flow: Input/output and data handling
 
 # 📂 01_basics
 Hands-on beginner exercises:
