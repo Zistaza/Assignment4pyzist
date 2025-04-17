@@ -79,12 +79,6 @@ Streamlit (for web apps)
 Basic standard libraries: random, time, sys, etc.
 
 💡 How to Run
-bash
-Copy
-Edit
-# Clone this repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
 
 # Run Python files
 python filename.py
