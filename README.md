@@ -1,8 +1,22 @@
 # 🐍 Python Assignments & Projects Repository
 Welcome to my Python learning journey! This repository includes all my foundational assignments, mini exercises, and beginner-to-intermediate level projects. Organized into folders for easy navigation and learning progression.
 
+# 🚀 My Streamlit Projects
+
+# 📊 BMI Calculator App
+Calculate your Body Mass Index (BMI) and get personalized health tips.
+
+🔗 Live App on Streamlit Cloud
+
+# 🌐 Portfolio Website with Streamlit
+An interactive portfolio showcasing Python projects, contact form, and more.
+
+🔗 Live App on Streamlit Cloud
+
+
+
 # 📂 Assignment Folder Overview
-# 00_intro_python to 07_information_flow
+## 00_intro_python to 07_information_flow
 Basic Python concepts through structured weekly assignments:
 
 # 00_intro_python: Introduction to Python syntax & setup
